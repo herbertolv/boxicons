@@ -1,0 +1,5 @@
+a) fazer as críticas para não adicionar um arquivo maior que o espaço disponível no
+PenDrive
+b) Não permitir a adição de arquivos com mesmo nome
+c) No método __str__(), listar todos os arquivos do penDrive com seus respectivos
+tamanhos, colocar o total ocupado (em MB) e o total livre em (MB)
